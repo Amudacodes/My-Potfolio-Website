@@ -701,7 +701,7 @@ input[type="submit"]:hover {
             <img src="o.png" class="animated_img">
         </div>
     </div>    
-        <button class="header_btn"><a href="">Check out Resume!</a></button>
+        <button class="header_btn"><a href="/resume">Check out my Resume!</a></button>
     </div>
 </header>
 <!--==================== END OF HEADER ===================-->
@@ -718,11 +718,15 @@ input[type="submit"]:hover {
             <h2>About</h2>
         </div>
         <p class="about_abt">
-          Am a aspiring Fullstack Developer currently focused on frontend development. 
-          Aside from my technical skills, I'm a team player with strong communication and 
-          collaboration skills and a passion for creating innovative solutions. I'm excited 
-          to take on new challenges and contribute to impactful digital solutions. 
-          Thanks for getting to know me!
+          Hey there, am a frontend development. But I'm on a mission to become a Fullstack Developer, but currently, I'm focusing on frontend development.
+
+          I've been learning various frontend technologies, including HTML, CSS, and JavaScript, as well as popular frameworks like Sveltekit. I'm always looking for ways to improve my skills and deliver great user experiences.
+          
+          Aside from my technical skills, I'm a team player with strong communication and collaboration skills. I love working with others to solve complex problems and create innovative solutions.
+          
+          I'm eager to continue expanding my knowledge and experience in both frontend and backend development. I'm excited about taking on new challenges and contributing to the creation of impactful digital solutions.
+          
+          Thanks for taking the time to get to know me a little better!
         </p>
         <img src="" alt="">
     </div>
@@ -732,9 +736,9 @@ input[type="submit"]:hover {
     <div class="experience_el all">
         <div class="experience_head">
             <h3>02.</h3>
-            <h2>My Coding Experience</h2>
+            <h2>Career Objetive</h2>
         </div>
-        <h3 class="experience_subhead">[Codesideacademy]</h3>
+        <!-- <h3 class="experience_subhead">[Codesideacademy]</h3> -->
         <p class="experience_abt">
           As an aspiring Frontend Developer, I am enthusiastic about utilizing my developing skills to contribute to the creation of dynamic and user-friendly web applications. I have gained foundational knowledge in various frontend development technologies, such as HTML, CSS, and JavaScript, and I am constantly expanding my expertise in the field.
 
