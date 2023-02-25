@@ -1,5 +1,3 @@
-
-
 <script>
 import { onMount } from 'svelte';
 
@@ -26,7 +24,6 @@ import { onMount } from 'svelte';
         closeBtn.style.display = "none";
         openBtn.style.display = "block";
     }
-
     
     let text = [    "Hi, my name is",    "Yusuf Adeagbo.",    "I am a frontend developer.",    "I specialize in creating user-friendly and visually appealing websites and web applications using technologies such as HTML, CSS, and JavaScript."];
 
@@ -45,30 +42,6 @@ import { onMount } from 'svelte';
     }
 
     typeWriter(0, 0);
-
-
-
-//     window.addEventListener("load", () => {
-//   let text = [    "Hi, my name is",    "Yusuf Adeagbo.",    "I am a frontend developer.",    "I specialize in creating user-friendly and visually appealing websites and web applications using technologies such as HTML, CSS, and JavaScript."  ];
-
-//   let typing = [];
-//   text.forEach(() => typing.push(""));
-
-//   function typeWriter(sentenceIndex, index) {
-//     if (index < text[sentenceIndex].length) {
-//       typing[sentenceIndex] += text[sentenceIndex][index];
-//       setTimeout(() => typeWriter(sentenceIndex, index + 1), 100);
-//     } else {
-//       if (sentenceIndex + 1 < text.length) {
-//         setTimeout(() => typeWriter(sentenceIndex + 1, 0), 100);
-//       }
-//     }
-//   }
-
-//   typeWriter(0, 0);
-// });
-
-
 
     let name = '';
     let email = '';
@@ -728,7 +701,7 @@ input[type="submit"]:hover {
             <img src="o.png" class="animated_img">
         </div>
     </div>    
-        <button class="header_btn"><a href="https://www.youtube.com/@amudacodes">Check out my channel!</a></button>
+        <button class="header_btn"><a href="">Check out Resume!</a></button>
     </div>
 </header>
 <!--==================== END OF HEADER ===================-->
@@ -745,22 +718,11 @@ input[type="submit"]:hover {
             <h2>About</h2>
         </div>
         <p class="about_abt">
-            "I am a web development wizard, casting code spells of 
-            HTML, CSS and JavaScript to create responsive and 
-            visually appealing websites. With years of experience 
-            under my belt and a arsenal of skills including HTML, 
-            CSS, and JavaScript. I have 
-            the power to make your website dreams a reality.
-            Just like a cool adventurer, I am always on the lookout 
-            for new challenges and to keep my skills sharp, I am always
-            eager to learn new technologies and stay ahead of the latest 
-            web development trends. I work well as a team player, but also 
-            able to take initiative and work independently, just like a classic 
-            hero on an epic quest. When I am not creating websites, I love to explore 
-            new development trends and technologies, whether through online tutorials 
-            or participating in coding challenges. It's my own way to level up my abilities. 
-            I am passionate about web development and I can't wait to bring that passion 
-            to your next project and to continue to learn and grow as a Developer.
+          Am a aspiring Fullstack Developer currently focused on frontend development. 
+          Aside from my technical skills, I'm a team player with strong communication and 
+          collaboration skills and a passion for creating innovative solutions. I'm excited 
+          to take on new challenges and contribute to impactful digital solutions. 
+          Thanks for getting to know me!
         </p>
         <img src="" alt="">
     </div>
@@ -774,22 +736,16 @@ input[type="submit"]:hover {
         </div>
         <h3 class="experience_subhead">[Codesideacademy]</h3>
         <p class="experience_abt">
-            I had the opportunity to complete an internship at Codesideacademy, 
-            a leading coding education platform. During my internship, I worked 
-            with a talented team of educators and developers to create engaging 
-            and effective learning experiences for students of all skill levels.
-            My role at Codesideacademy involved assisting in the creation and 
-            maintenance of course content, as well as providing guidance and 
-            support to students. I also had the chance to work on design and 
-            implementation of new features and improvements to the platform, 
-            with an emphasis on making the learning experience as accessible 
-            and user-friendly as possible. The internship at Codesideacademy 
-            provided me with valuable experience in the field of coding education 
-            and the chance to make a real impact in the lives of students. I am 
-            grateful for the experience and knowledge gained during my time at 
-            the company and it has been a great addition in my portfolio. It helped 
-            me to understand the industry and the work culture. It's definitely 
-            a great starting point in my career.
+          As an aspiring Frontend Developer, I am enthusiastic about utilizing my developing skills to contribute to the creation of dynamic and user-friendly web applications. I have gained foundational knowledge in various frontend development technologies, such as HTML, CSS, and JavaScript, and I am constantly expanding my expertise in the field.
+
+          I am eager to gain real-world experience in the industry and am actively seeking opportunities to intern or work as a Junior Developer. I am highly coachable, with a strong desire to learn and grow as a developer. I have completed relevant coursework and/or online courses in frontend development, and I am eager to apply my knowledge in a professional setting.
+          
+          In addition to my technical skills, I possess strong communication and collaboration skills, and I am able to work effectively in a team environment. I am highly organized, detail-oriented, and committed to delivering quality work.
+          
+          I am also familiar with various tools and platforms used in frontend development, such as Git, GitHub, and popular frameworks like sveltekit. I am eager to further develop my skills and contribute to projects that make a positive impact on users' experiences.
+          
+          Overall, I am a passionate and dedicated individual who is eager to jumpstart their career as a Frontend Developer. I believe that an internship or Junior Developer position would provide me with the opportunity to further develop my skills and gain valuable real-world experience in the industry.
+          
         </p>
     </div>
 </section>
