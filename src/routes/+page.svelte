@@ -658,7 +658,7 @@ input[type="submit"]:hover {
             
             <li class="nav__menu1">
                 <p>02.</p>
-                <a href="#experience" on:click={close} bind:this={closeBtn}>Experience</a>
+                <a href="#experience" on:click={close} bind:this={closeBtn}>Career</a>
             </li>
             <li class="nav__menu1">
                 <p>03.</p>
