@@ -718,7 +718,7 @@ input[type="submit"]:hover {
             <h2>About</h2>
         </div>
         <p class="about_abt">
-          Hey there, am a Frontend Development on a mission to become a Fullstack Developer, but currently, I'm focusing on frontend development.
+          Hey there, am a Frontend Developer on a mission to become a Fullstack Dev, but currently, I'm focusing on frontend development.
 
           I've been learning various frontend technologies, including HTML, CSS, and JavaScript, as well as popular frameworks like Sveltekit. I'm always looking for ways to improve my skills and deliver great user experiences.
           
