@@ -813,7 +813,7 @@ input[type="submit"]:hover {
     <p class="contact_head1">04. What's Next?</p>
     <h2 class="contact_head2">Get In Touch</h2>
     <p class="contact_headp">
-        I am open for any web development job, my skills 
+        I am also open for any web development job, my skills 
         include proficiency in various technologies and frameworks.
     </p>
   </div>
