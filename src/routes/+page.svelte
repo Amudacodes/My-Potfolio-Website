@@ -740,7 +740,7 @@ input[type="submit"]:hover {
         </div>
         <!-- <h3 class="experience_subhead">[Codesideacademy]</h3> -->
         <p class="experience_abt">
-          As an aspiring Frontend Developer, I am enthusiastic about utilizing my developing skills to contribute to the creation of dynamic and user-friendly web applications. I have gained foundational knowledge in various frontend development technologies, such as HTML, CSS, and JavaScript, and I am constantly expanding my expertise in the field.
+          As an aspiring Full-stack Developer, I am enthusiastic about utilizing my developing skills to contribute to the creation of dynamic and user-friendly web applications. I have gained foundational knowledge in various frontend development technologies, such as HTML, CSS, and JavaScript, and I am constantly expanding my expertise in the field.
 
           I am eager to gain real-world experience in the industry and am actively seeking opportunities to intern or work as a Junior Developer. I am highly coachable, with a strong desire to learn and grow as a developer. I have completed relevant coursework and/or online courses in frontend development, and I am eager to apply my knowledge in a professional setting.
           
